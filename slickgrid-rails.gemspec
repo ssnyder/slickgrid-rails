@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |gem|
   gem.name          = "slickgrid-rails"
-  gem.version       = "0.3.3"
-  gem.authors       = ["Benedikt Böhm"]
-  gem.email         = ["benedikt.boehm@madvertise.com"]
+  gem.version       = "0.3.4"
+  gem.authors       = ["Sharon Snyder"]
+  gem.email         = ["sharonbsnyder@gmail.com"]
   gem.description   = %q{SlickGrid Integration for Rails 3.x}
   gem.summary       = %q{SlickGrid Integration for Rails 3.x}
-  gem.homepage      = "https://github.com/madvertise/slickgrid-rails"
+  gem.homepage      = "https://github.com/ssnyder/slickgrid-rails"
 
   gem.add_dependency "railties", "~> 3.0"
 

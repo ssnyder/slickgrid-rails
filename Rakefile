@@ -29,7 +29,7 @@ namespace :slickgrid do
     mkdir_p "tmp"
 
     cd "tmp" do
-      sh "git clone https://github.com/mleibman/SlickGrid.git"
+      sh "git clone https://github.com/6pac/SlickGrid.git"
     end
   end
 end
